@@ -1,1 +1,25 @@
-{"expo":{"name":"LUXE REVEIL V4","slug":"luxe-reveil-v4","version":"1.0.0","android":{"package":"com.mkr111.luxereveil"},"extra":{"eas":{"projectId":"587e5c05-afd3-4cef-bbc0-a9ffd9aee96e"}}}}
+{
+  "expo": {
+    "name": "LUXE REVEIL V4",
+    "slug": "luxe-reveil-v4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#000000",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.mkr111.luxereveil",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/icon.png"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "587e5c05-afd3-4cef-bbc0-a9ffd9aee96e"
+      }
+    }
+  }
+}
