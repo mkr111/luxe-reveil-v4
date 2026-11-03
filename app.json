@@ -10,11 +10,7 @@
       "resizeMode": "contain"
     },
     "android": {
-      "package": "com.mkr111.luxereveil",
-      "adaptiveIcon": {
-        "backgroundColor": "#000000",
-        "foregroundImage": "./assets/icon.png"
-      }
+      "package": "com.mkr111.luxereveil"
     },
     "extra": {
       "eas": {
