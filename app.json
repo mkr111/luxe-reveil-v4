@@ -4,11 +4,8 @@
     "slug": "luxe-reveil-v4",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "backgroundColor": "#000000",
-      "resizeMode": "contain"
-    },
+    "userInterfaceStyle": "dark",
+    "platforms": ["android"],
     "android": {
       "package": "com.mkr111.luxereveil"
     },
