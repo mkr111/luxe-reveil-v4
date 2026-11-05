@@ -1,18 +1,10 @@
-{
-  "expo": {
-    "name": "LUXE REVEIL V4",
-    "slug": "luxe-reveil-v4",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "platforms": ["android"],
-    "android": {
-      "package": "com.mkr111.luxereveil"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "587e5c05-afd3-4cef-bbc0-a9ffd9aee96e"
-      }
-    }
-  }
+import { View, Text } from 'react-native';
+
+export default function App() {
+  return (
+    <View style={{ flex: 1, backgroundColor: 'black', alignItems: 'center', justifyContent: 'center' }}>
+      <Text style={{ color: 'white', fontSize: 32, fontWeight: 'bold' }}>LUXE V4 OK</Text>
+      <Text style={{ color: '#888', marginTop: 10 }}>Build reussi</Text>
+    </View>
+  );
 }
