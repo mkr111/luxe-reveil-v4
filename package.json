@@ -1,1 +1,10 @@
-{"name":"luxe-reveil-v4","version":"1.0.0","main":"App.js","dependencies":{"expo":"~51.0.0","react":"18.2.0","react-native":"0.74.5"}}
+{
+  "name": "luxe-reveil-v4",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "~51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  }
+}
